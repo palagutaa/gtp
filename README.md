@@ -33,4 +33,4 @@ def main() -> None:
     # Run the bot until you press Ctrl-C
     updater.idle()
 
-if __name__ == '__main__':
+if __name__ == '__main__
