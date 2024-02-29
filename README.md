@@ -31,4 +31,3 @@ def main() -> None:
     updater.start_polling()
 
     # Run the bot until you press Ctrl-C
-    updater.id
